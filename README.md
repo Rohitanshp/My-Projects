@@ -1,1 +1,2 @@
-# My-Projects
+AIR CANVAS PROJECT
+Created a virtual drawing tool controlled by real-time hand gesture recognition, eliminating the need for physical devices. Implemented gesture mapping for drawing, erasing, and color selection to enhance user interaction. Enabled smooth, responsive control providing a natural drawing experience across varied environments.Conducted extensive testing under different lighting conditions to ensure consistent and stable hand tracking
